@@ -1,6 +1,12 @@
 # 💫 About Me:
 <-----------------------------------------------------><br>> ☘️Hai I'm Putra, Izumi-api©, Dan Saya Hanya Pemula Bisa<br>> Jadi Jangan Hujat Saya Yah,<br><-----------------------------------------------------><br><br><-----------------------------------------------------><br>> Sosmed<br>> Tiktok: https://tiktok.com/@izumii.cn<br>> YouTube: https://youtube.com/@izumiixyz<br>> Instagram: https://www.instagram.com/deku_ganz<br><-----------------------------------------------------><br><br><br>
 
+# 🎧 Spotify Favorite Song
+[![My Favorite Song - Creepy Nuts](https://i.scdn.co/image/ab67616d0000b27365be90eeef17d56739f00906)](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg)  
+**Creepy Nuts – Mirage (OP Theme to Call of the Night Season 2)**
+
+[![My Favorite Song - Creepy Nuts](https://i.scdn.co/image/ab67616d0000b273d303705b63b5c8ad1c796841)](https://open.spotify.com/track/1C5jZ3xvS4wSVt5pWfjRBX)  
+**Creepy Nuts – 眠れ - Nemure (ED Theme to Call of the Night Season 2)**
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@izumii.cn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@izumiixyz) 
