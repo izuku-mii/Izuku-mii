@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+<p align="center">
+  <img src="https://files.cloudkuimages.guru/images/g2iy68RN.jpg" width="250"/>
+</p>
+
 <-----------------------------------------------------><br>> ☘️Hai I'm Putra, Izumi-api©, Dan Saya Hanya Pemula Bisa<br>> Jadi Jangan Hujat Saya Yah,<br><-----------------------------------------------------><br><br><-----------------------------------------------------><br>> Sosmed<br>> Tiktok: https://tiktok.com/@izumii.cn<br>> YouTube: https://youtube.com/@izumiixyz<br>> Instagram: https://www.instagram.com/deku_ganz<br><-----------------------------------------------------><br><br><br>
 
 # 🎧 Spotify Favorite Song
