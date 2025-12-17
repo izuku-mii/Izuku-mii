@@ -17,7 +17,7 @@ Name: Putra
 Hobbies: Watch Anime & Edit Video Anime jj
 Best Anime: Yofukashi no uta, Charlotte, Tougen anki
 Location: Indonesia, Sumatra, selatan
-Domain: https://izumiiiiiiii.dpdns.org/
+Domain: https://api.ootaizumi.web.id/
 ------------------------
 ```
 
