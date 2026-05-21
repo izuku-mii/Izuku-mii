@@ -1,57 +1,68 @@
-<p align="center">
-  <img src="/banner.jpg" alt="BASE-SIMPLE API Banner" width="100%" style="border-radius: 8px;">
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Efek Konsol Berjalan Berwarna Putih -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=hai+semua+welcome+ke+github%3A+Izuku-mii;Di+sini+ada+script+bot+atau+dll" alt="Console Typing Animation">
-</p>
+<!-- BANNER API -->
+<img src="/banner.jpg" alt="BASE-SIMPLE API Banner" width="100%" style="border-radius: 4px; border: 1px solid rgba(45,189,126,0.14);">
 
-<p align="center">
-  <a href="https://v2.izuku-mii.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Web%20API-v2.izuku--mii.my.id-2dbd7e?style=for-the-badge&logo=express&logoColor=white" alt="Web API">
-  </a>
-  <a href="https://tiktok.com/@keigo_fujimoto_" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%40keigo__fujimoto__-ff0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-</p>
+<br/>
+
+<!-- CONSOLE LOG ANIMASI BERJALAN (WARNA PUTIH) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&height=40&lines=hai+semua+welcome+ke+github%3A+Izuku-mii;Di+sini+ada+script+bot+atau+dll" alt="Console Log">
+
+<br/>
+
+<!-- BADGES BUTTONS -->
+<a href="https://v2.izuku-mii.my.id" target="_blank">
+  <img src="https://img.shields.io/badge/WEB_API-v2.izuku--mii.my.id-2dbd7e?style=flat-square&logo=express&logoColor=060d0a" alt="Web">
+</a>
+<a href="https://tiktok.com/@keigo_f_fujimoto_" target="_blank">
+  <img src="https://img.shields.io/badge/TIKTOK-%40keigo__fujimoto__-10b981?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
+</a>
+
+</div>
 
 ---
 
-## 🎵 Playlist Favorit
+## 📂 SYSTEM STATS & DIRECTORY
 
-Kumpulan musik pilihan untuk menemani *coding*. Klik judul lagu untuk mendengarkan langsung via Spotify.
+> **Framework:** Express.js  
+> **Theme:** Base-Simple Green (Dark Mode)  
+> **Author:** [@oota_asik_sendiri](https://github.com/izuku-mii)
 
-### ✨ Nightcore Version
-*   [Angel of Darkness](https://open.spotify.com/search/Angel%20of%20Darkness%20Nightcore)
-*   [Don't Know](https://open.spotify.com/search/Don't%20Know%20Nightcore)
-*   [Doktorspiele](https://open.spotify.com/search/Doktorspiele%20Nightcore)
+| Feature / Endpoint | Type | Description |
+| :--- | :---: | :--- |
+| **TikTok API** | `GET / POST` | Scraper, downloader, and media processing. |
+| **Try It Out Playground** | `UI` | Interactive response testing for JSON, Audio, and Video. |
+| **Documentation** | `UI` | Live query params definition & curl auto-generator. |
+
+---
+
+## 🎵 PLAYLIST & MUSIC FAVORIT
+
+Klik judul lagu di bawah ini untuk langsung memutar videonya di **YouTube**:
+
+### ⚡ Nightcore Version
+*   [🎵 Angel of Darkness](https://www.youtube.com/watch?v=Jv1ZPrvbfcc)
+*   [🎵 Don't Know](https://www.youtube.com/watch?v=sO7N-aep6M0)
+*   [🎵 Doktorspiele](https://www.youtube.com/watch?v=ZfD_S83D_8s)
 
 ### 🎧 Original Track & Anime Soundtracks
-*   [Sakasama Polkadot](https://open.spotify.com/search/Sakasama%20Polkadot)
-*   [Join Me in Death (Demo)](https://open.spotify.com/search/Join%20Me%20in%20Death%20Demo)
-*   [Curtain Call](https://open.spotify.com/search/Curtain%20Call)
-*   [Koori no Jouheki (Opening)](https://open.spotify.com/search/Koori%20no%20Jouheki%20Opening)
-*   [Tougen Anki (Opening & Ending)](https://open.spotify.com/search/Tougen%20Anki%20Theme)
+*   [🎶 Sakasama Polkadot](https://www.youtube.com/watch?v=Qf6Cgqf28sw)
+*   [🎶 Join Me In Death (Demo)](https://www.youtube.com/watch?v=aG3m43Z93ms)
+*   [🎶 Curtain Call](https://www.youtube.com/watch?v=3K0N_k8w8Ls)
+*   [🎶 Koori no Jouheki](https://www.youtube.com/watch?v=m7H_8XwYV8M)
+*   [🎶 Tougen Anki](https://www.youtube.com/watch?v=v9B8yX2wO2M)
+*   [🎶 Tougen Anki](https://www.youtube.com/watch?v=b4wM2b8wQ8E)
 
 ---
 
-## 🛠️ Tech Stack & Fitur Utama
+## 🖥️ CURL CODE EXAMPLE
 
-Aplikasi REST API ini dibangun menggunakan arsitektur modern berkecepatan tinggi:
+Contoh request format REST API yang digunakan pada sistem ini:
 
-*   **Runtime:** Node.js & Express.js
-*   **Interface:** Desain UI Gelap (*Dark Mode*) dengan aksen warna Emerald (`#2dbd7e`).
-*   **Fitur Playground:** Panel *Try It Out* interaktif yang mendukung respons langsung berupa JSON, Audio, Video, maupun Gambar.
-*   **Integrasi Pihak Ketiga:** Menyediakan endpoint publik, termasuk optimasi untuk **TikTok API** scraper/downloader.
+```bash
+# Contoh request GET untuk mengambil data API
+curl -X GET "[https://v2.izuku-mii.my.id/api/tiktok?query=hai](https://v2.izuku-mii.my.id/api/tiktok?query=hai)"
 
----
-
-## 🧑‍💻 Kontak & Tautan Resmi
-
-| Platform | Tautan |
-| :--- | :--- |
-| **Website Resmi** | [v2.izuku-mii.my.id](https://v2.izuku-mii.my.id) |
-| **TikTok Profil** | [@keigo_fujimoto_](https://tiktok.com/@keigo_fujimoto_) |
-| **Source Repository** | [izuku-mii/Base-Api](https://github.com/izuku-mii/Base-Api) |
-
+# Contoh request POST untuk upload media file
+curl -X POST "[https://v2.izuku-mii.my.id/api/tiktok](https://v2.izuku-mii.my.id/api/tiktok)" \
+  -F "file=@your_file.jpg"
