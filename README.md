@@ -1,84 +1,57 @@
-# 💫 About Me:
+<p align="center">
+  <img src="/banner.jpg" alt="BASE-SIMPLE API Banner" width="100%" style="border-radius: 8px;">
+</p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/61/ce/2a/61ce2a60419ba0cd44b1e4a0890d810a.gif" width="250"/>
+  <!-- Efek Konsol Berjalan Berwarna Putih -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=hai+semua+welcome+ke+github%3A+Izuku-mii;Di+sini+ada+script+bot+atau+dll" alt="Console Typing Animation">
 </p>
 
-<-----------------------------------------------------><br>> ☘️Hai I'm Putra, Izumi-api©, Dan Saya Hanya Pemula Bisa<br>> Jadi Jangan Hujat Saya Yah,<br><-----------------------------------------------------><br><br><-----------------------------------------------------><br>> Sosmed<br>> Tiktok: https://tiktok.com/@izumii.cn<br>> YouTube: https://youtube.com/@izumiixyz<br>> Instagram: https://www.instagram.com/deku_ganz<br><-----------------------------------------------------><br><br><br>
-
-<h1 align="center">Izumii | Profile</h1>
-  
-<img src="https://files.cloudkuimages.guru/images/9VkihX56.jpg" align = "right" width = "170"></img>
-<p width = "40">
-
-```csharp
--------------------------
-Name: Putra
-Hobbies: Watch Anime & Edit Video Anime jj
-Best Anime: Yofukashi no uta, Charlotte, Tougen anki
-Location: Indonesia, Sumatra, selatan
-Domain: https://api.ootaizumi.web.id/
-------------------------
-```
-
+<p align="center">
+  <a href="https://v2.izuku-mii.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20API-v2.izuku--mii.my.id-2dbd7e?style=for-the-badge&logo=express&logoColor=white" alt="Web API">
+  </a>
+  <a href="https://tiktok.com/@keigo_fujimoto_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%40keigo__fujimoto__-ff0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
 </p>
- <br>
- <br>
- <br>
- <p align="center">
-     <img src="https://media1.tenor.com/m/oXkW9LLAGG8AAAAC/oshi-no-ko-head-bob.gif" width="140"></img>
- </p>
- <h3 align="center">🎵 My favorite song 🎵</h3>
-</div>
-<div class="music" width = "140">
-  <br>
-<br>
-<p align="left"> 
- <br>
- <a src="https://music.youtube.com/watch?v=oXZcuHIR5ko&si=EZ6TsHwvDBPlOGIO">
-   <img src="https://i.scdn.co/image/ab67616d0000b27365be90eeef17d56739f00906" width="100" align="left">
-    </img>
-   </a>
-    <h3 align="left"><br>Creepy Nuts – Mirage (OP Theme to Call of the Night Season 2)</h3>
-   </p>
- <br>
- <br>
- <br>
-<p align="right">
-  <a href="https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg">
-        <img src="https://i.scdn.co/image/ab67616d0000b273d303705b63b5c8ad1c796841" width = "100" align="right"></img>
-      </a>
-        <h3 align="right"q><br>Creepy Nuts – Mirage (OP Theme to Call of the Night Season 2)</h3>
-       </p>
-     <br>
-     <br>
-     <br>
-     <p align="left"> 
- <br>
- <a src="https://open.spotify.com/track/2TKEFI0aHDF77p4WFfK9VO">
-   <img src="https://i.scdn.co/image/ab67616d0000b2739ca138b016a7ca17b4372d91" width="100" align="left">
-    </img>
-   </a>
-    <h3 align="left"><br>OVERNIGHT</h3>
-   </p>
- <br>
- <br>
- <br>
-   </div>
-   <br>
-   <br>
-
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@izumii.cn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@izumiixyz) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=izuku-mii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=izuku-mii&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=izuku-mii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=izuku-mii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎵 Playlist Favorit
+
+Kumpulan musik pilihan untuk menemani *coding*. Klik judul lagu untuk mendengarkan langsung via Spotify.
+
+### ✨ Nightcore Version
+*   [Angel of Darkness](https://open.spotify.com/search/Angel%20of%20Darkness%20Nightcore)
+*   [Don't Know](https://open.spotify.com/search/Don't%20Know%20Nightcore)
+*   [Doktorspiele](https://open.spotify.com/search/Doktorspiele%20Nightcore)
+
+### 🎧 Original Track & Anime Soundtracks
+*   [Sakasama Polkadot](https://open.spotify.com/search/Sakasama%20Polkadot)
+*   [Join Me in Death (Demo)](https://open.spotify.com/search/Join%20Me%20in%20Death%20Demo)
+*   [Curtain Call](https://open.spotify.com/search/Curtain%20Call)
+*   [Koori no Jouheki (Opening)](https://open.spotify.com/search/Koori%20no%20Jouheki%20Opening)
+*   [Tougen Anki (Opening & Ending)](https://open.spotify.com/search/Tougen%20Anki%20Theme)
+
+---
+
+## 🛠️ Tech Stack & Fitur Utama
+
+Aplikasi REST API ini dibangun menggunakan arsitektur modern berkecepatan tinggi:
+
+*   **Runtime:** Node.js & Express.js
+*   **Interface:** Desain UI Gelap (*Dark Mode*) dengan aksen warna Emerald (`#2dbd7e`).
+*   **Fitur Playground:** Panel *Try It Out* interaktif yang mendukung respons langsung berupa JSON, Audio, Video, maupun Gambar.
+*   **Integrasi Pihak Ketiga:** Menyediakan endpoint publik, termasuk optimasi untuk **TikTok API** scraper/downloader.
+
+---
+
+## 🧑‍💻 Kontak & Tautan Resmi
+
+| Platform | Tautan |
+| :--- | :--- |
+| **Website Resmi** | [v2.izuku-mii.my.id](https://v2.izuku-mii.my.id) |
+| **TikTok Profil** | [@keigo_fujimoto_](https://tiktok.com/@keigo_fujimoto_) |
+| **Source Repository** | [izuku-mii/Base-Api](https://github.com/izuku-mii/Base-Api) |
+
